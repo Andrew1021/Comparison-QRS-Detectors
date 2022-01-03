@@ -1,6 +1,6 @@
 pip~=21.0.1
 setuptools~=56.0.0
-numpy~=1.19.5
+numpy~=1.22.0
 matplotlib~=3.3.4
 scipy~=1.5.4
 wfdb~=3.3.0
